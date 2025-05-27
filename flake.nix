@@ -19,7 +19,7 @@
 
       	src = builtins.fetchurl {
       	  url = "http://vkr.bmstu.ru/TestVkr.exe";
-      	  sha256 = "sha256:1vbffk3cmg4vsynp1crh9zqz8ynvb08v4fy6fqyknhwjvgccpxx5";
+      	  sha256 = "sha256:0aryjr71cih4ix2vk4fk9fw6vass0jkbqbirq55dv6r4f9di9naw";
       	};
 
       	dontUnpack = true;
